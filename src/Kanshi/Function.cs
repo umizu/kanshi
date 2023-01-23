@@ -12,7 +12,7 @@ namespace Kanshi;
 public class Function
 {
     /// <summary>
-    /// Grabs a random kanji from the S3 bucket and sends it to Discord
+    /// Grabs a random kanji from the S3 bucket object and sends it to Discord
     /// </summary>
     /// <param name="input"></param>
     /// <param name="context"></param>
